@@ -23,5 +23,5 @@ csrf_test_name=3fd6bdc3c3bf1def2928d40ade568742&draw=1&columns%5B0%5D%5Bdata%5D=
 ```
 PoC Image:
 
-![PoC Image](/img/kelasdosen.PNG "POC IMAGE")
+![PoC Image](img/kelasdosen.png "POC IMAGE")
 
